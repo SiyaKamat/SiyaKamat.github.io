@@ -4,22 +4,17 @@ You can use the [editor on GitHub](https://github.com/SiyaKamat/SiyaKamat.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### **Siya Kamat**
+![Me] (aboutme.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### _Social Media_:
+- Snapchat: siyaaak
 
-```markdown
-Syntax highlighted code block
+### _Brag Sheet_:
+- I have been a Girl Scout for 4 years!
+- I am a part of the East Brunswick High School Hindu Club!
+- I have been dancing for 10 years!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
